@@ -76,3 +76,4 @@ The probability of getting a result like this is .000009421 if there isn't a dif
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+The conclusion we came to was that the line players aren't as good at pushups as the skill players. First, we did a boxplot comparing position and pushup count. The top of the line box was lower than the bottom of the skill box. Then we did a numerical result box to look at the results more clearly. Here we saw that the skill players were able to do three times more pushups than the line players. Finally, we did a t-test and confirmed that the line players statistically have an incredibly small chance to best the skill players at pushups. 
